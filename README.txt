@@ -19,6 +19,7 @@ git init
 dotnet new gitignore
 
 adicionar ao .gitignore o arquivo appsettings.json
+
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/adrianozovka/DatingApp.git
